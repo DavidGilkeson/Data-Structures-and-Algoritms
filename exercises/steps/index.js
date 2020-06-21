@@ -17,6 +17,13 @@
 //       '### '
 //       '####'
 
-function steps(n) {}
+function steps(n) {
+
+  let input = prompt("Please enter a positive number");
+
+
+}
+debugger;
+steps(4);
 
 module.exports = steps;
